@@ -1,6 +1,5 @@
 ---
 title: My hobbies
-layout: template
 filename: Hobbies
 --- 
 
