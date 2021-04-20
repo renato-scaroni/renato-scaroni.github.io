@@ -1,6 +1,7 @@
 ## Scaroni's personal webpage
 
 {% for page in site.pages %}
+    [page.title](renato-scaroni.github.io/page.filename)
     <a href={{ page.filename }}>{{ page.title }}</a>
 {% endfor %}
 
