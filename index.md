@@ -1,8 +1,7 @@
 ## Scaroni's personal webpage
 
 {% for page in site.pages %}
-    [page.title](renato-scaroni.github.io/page.filename)
-    <a href={{ page.filename }}>{{ page.title }}</a>
+    {{[page.title](renato-scaroni.github.io/page.filename)}}
 {% endfor %}
 
 Hi there, if you are here it is because you want to know more about me. 
