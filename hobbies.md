@@ -23,4 +23,4 @@ This page is about some accomplishments i have about my hobbies.
 > Boargames:
 >
 > - [BGZOSP](http://www.bgzosp.com.br/) - board game event i used to be part of, working planning social media posts and as monitor and staff before the COVID-19 pandemics
-> - boardgame reviews and lists in my ludopedia account such as [this one for a feast for odin](https://www.ludopedia.com.br/topico/37742/-resenha-um-colosso-epico-tematico-e-maravilhoso) (Portuguese only, sorry =()
+> - boardgame reviews and lists in my [ludopedia account](https://www.ludopedia.com.br/canal/ScafandroBG) such as [this one for a feast for odin](https://www.ludopedia.com.br/topico/37742/-resenha-um-colosso-epico-tematico-e-maravilhoso) (Portuguese only, sorry =()
