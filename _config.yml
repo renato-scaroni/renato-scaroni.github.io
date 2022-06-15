@@ -1,5 +1,6 @@
 theme: minimal-mistakes-jekyll
 plugin:
+  - jekyll-include-cache 
   - jekyll-remote-theme
   - jekyll-spaceship
 
