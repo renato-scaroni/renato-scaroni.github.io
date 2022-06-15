@@ -1,1 +1,37 @@
-theme: jekyll-theme-tactile
+theme: minimal-mistakes-jekyll
+plugin:
+  - jekyll-remote-theme
+  - jekyll-spaceship
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      author_profile: true
+
+  - scope:
+      path: ""
+      type: home
+    values:
+      author_profile: true
+
+
+author:
+  name: "Renato Scaroni"
+  avatar: "/assets/images/bio-photo.png"
+  bio: "Tech nerd insterested in games, kung fu, music, science and psychology" # Note: Markdown is allowed
+  location: "São Paulo, Brazil"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/renato-scaroni"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/renatoscaroni/"

@@ -1,7 +1,8 @@
 ---
 title: My hobbies
 filename: Hobbies.md
---- 
+permalink: /hobbies/
+------ 
 
 This page is about some accomplishments i have about my hobbies.
 
