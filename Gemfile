@@ -36,6 +36,4 @@ gem "jekyll-remote-theme"
 
 gem 'jekyll-spaceship', group: :jekyll_plugins
 
-gem "minimal-mistakes-jekyll" 
-
-gem "jekyll-include-cache"
+gem "jekyll-include-cache", group: :jekyll_plugins
