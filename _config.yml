@@ -24,16 +24,11 @@ defaults:
     values:
       author_profile: true
 
-
 author:
-  name: "Renato Scaroni"
-  avatar: "/assets/images/bio-photo.png"
-  bio: "Tech nerd insterested in games, kung fu, music, science and psychology" # Note: Markdown is allowed
-  location: "São Paulo, Brazil"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/renato-scaroni"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/renatoscaroni/"
+    name: "Renato Scaroni"
+    avatar: "/assets/images/bio-photo.png"
+    bio: "Gamer e praticante de kung fu por paixão, 
+    cientista de dados por necessidade, 
+    buscando rumos mais humanos, 
+    com melhor qualidade de vida para mim e para todos.
+    Atualmente estudando psicologia por curiosidade"

@@ -1,0 +1,29 @@
+---
+title:  "Quem eu sou?"
+date:   2022-06-10 17:13:40 -0300
+categories: hobby
+---
+
+Nerd clássico, dos jogos e universos de 
+fantasia. Fã de Token, recém-descoberto trekkie 
+e descobrindo RPGs aleatórios. Isso é um jeito de me definir? OU então cientista de dados formado em computação pela USP, mestrando em IA pela mesma universidade. Quem eu sou? Será que eu sou o filho da Rita e do Ricardo, irmão da Tais, namorado da Bruna e dono da Amélia e do Turing?
+
+Todas essas respostas podem talvez ser jeitos de me definir. Algumas podem ser mais efêmeras. Explico: Se eu largo o mestrado, não serei mais o mestrando, mas ainda serei o filho do Ricardo e da Rita mesmo que eles morram. Mas e além disso? Então será que posso ser só filho e bacharel? Por que afinal eu posso por algum motivo não me interessar mais pelos meu hobbies, talvez eu perca uma perna e não consiga mais fazer kung fu. Não serei mais o Renato que pratica Kung fu. 
+
+Então quem eu sou? Me resumo a meu parentesco e meus títulos acadêmicos obtidos? E os não obtidos? E os outros assuntos que eu estudo/estudei fora de um curso acadêmico formal? Os livros que já li, as ideias que cultivo. Talvez essa seja uma resposta, " eu sou um conjunto de ideias". Parece meio egocentrico. Como o Lula que fala que é uma ideia. Mas talvez seja isso. Talvez eu seja tudo o que eu acredito, os valores que cultivei. Ter ou não um título acadêmico não me faz menos eu. Eu sou eu. Eu sou o que eu estudo, eu sou o que eu vivo, eu sou as ideias que cultivo.
+
+Mas mais importante que tudo, apesar de algumas coisas serem fatos irreversíveis, a maior parte das coisas é momentânea, estantânea. Eu de ontem não sou eu de hoje. Eu de hoje não sou eu de amanhã. Sempre terão novas ideias, novas vivências. Talvez então não faça muito sentido pensar que eu sou, mas talvez como estou hoje. 
+
+Nesse ponto precisamos pensar tb na imagem que passamos. Será que todo mundo pode se considerar uma pessoa feliz todo o dia. Será que aquela pessoa alegre o é pois apresenta sempre esse humor ou a casca que ela mostra pros outros é assim. O conteúdo da casca pode ser qualquer. POr isso existe mais de um ditado popular sobre contenente e conteúdo (não julgar o livro pela capa, nos menores frascos vem os melhores perfurmes e afins). Mais uma vez então temos outra faceta do eu. Não o quem somos, mas o como nos interpretamos.
+
+Como esse texto é um registro da minha mente, é legal falar aqui sobre como o Budismo enxerga o eu (ou em inglês o self). Pra essa filosofia milenar, o eu não existe, nós somos parte de um grande ciclo. Se hoje somos humanos, amanhã podemos ser um gato, um cachorro, um rato, ou qualquer outro ser sensciente. Isso implica que nós somos parte de uma coisa muito maior, o eu deixar de existir a partir do momento que desencarnamos. Se sairmos do ciclo, é pq nosso espírito se iluminou e atingiu a budeidade. Caso contrário nós voltamos como outra parte do nosso ecossistema o povoando e preenchendo. Ou seja, o que passa a diante é apenas nossos méritos ou deméritos espirituais. Tudo o que cultivamos em vida se vai. Nós não somos nada. 
+
+Então não somos nossa casca, nosso interior e apenas nosso espírito nos define. Mas e as lembranças que deixamos naqueles que amamos? De fato, nós seremos lembrados pelas pessoas a nossa volta. Então nós somos o que nós fazemos em certo nível. Embora mesmo essa definição seja efêmera, pois todos que conhecemos morrerão e seremos lembrados daqui pra frente no máximo por termos sido pai de fulano ou beltrano ou por ter sido filho de cicrano.
+
+Daí pode surgir uma ansiedade por fazer coisas grandes, "entrar pra história". Mas venhamos e convenhamos que entrar pra história, tanto no sentido de como vamos ser lembrados e por quê motivo, vai depender de quem conta a história. Então grandes chances do personagem que existe na história, que existe eternamente, não ser quem nós achamos que é. Recentemente descobri que Thomas Edison não inventou a lámpada, mas assim foi registrado na história, de forma que o coitado que de fato o fez não foi lembrado. 
+
+Isso me deixa cada vez mais certo de que eu sou o que eu acredito, meus valores, minhas opiniões. Eu sou meu conhecimento. Mas nada disso vai ficar pra sempre. O ser é mortal em todos os aspectos, não só no sentido fisiológico, no sentido carnal (afinal nossos restos serã devorados por fungos e vermes), mas tb no sentido de ideais. Os vermes do tempo, do esquecimento e da vontade de outros de favorecerem os seus, fará com que, mesmo que coisas grandes sejam feitas, tudo seja implacavelmente devorado e virará nada. 
+
+Então será que a resposta é que não somos nada? Eu acredito que sim. E não. Enquanto existirmos, nós afetamos nosso arredor. Nenhuma existência passa despercebida. Nós trocamos ideias com as pessoas a nossa volta, nós comemos, nós cagamos. Impacto nós geramos. Isso é muito importante de entender. Nós, como corpos físicos, ocupamos espaço. Nós causamos impactos nas vidas de outrem, mesmo que pequeno, mesmo que seja pisando no pé delas no metro. E como tudo o que é vivo nós decaímos e morremos.
+
+Pra tentar encerrar esse pensamento de hoje, eu sou o que penso, eu sou minha filição, eu sou minhas convivencias, meus hobbies, minhas ideias, minhas opiniões, minhas crenças, minha relação com todas as pessoas que conheço, sejam próximas ou não, eu sou as coisas que eu faço e deixo de fazer. Mas no final nada importa. Meus pais vão morrer, eu vou morrer e parar de pensar e ter opiniões e conviver (bem como as pessoas com quem convivo). Então já que estamos vivos temos duas possibilidades: não estar mais vivos ou tentar saborear cada uma dessas coisas e não pensar no fim. O fim chega e é implacável. E daí nada mais importa. 
