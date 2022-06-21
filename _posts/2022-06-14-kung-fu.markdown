@@ -13,6 +13,3 @@ Algumas imagens que simbolizam mto pra mim dentro do kung fu.
 Eu sempre passei a vida inteira achando que eu não devia fazer esportes, que não tinha jeito, que não era pra mim e etc.
 
 {% include carousel.html height="100" unit="%" duration="7" number="1" %}
-
-
-# nunca lhe prometi um jardim de flores
