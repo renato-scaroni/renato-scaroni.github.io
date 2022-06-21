@@ -1,7 +1,7 @@
 ---
 title:  "Quem eu sou?"
 date: 2022-06-20
-categories: hobby
+categories: reflexões
 ---
 
 Nerd clássico, dos jogos e universos de 
